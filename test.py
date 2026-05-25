@@ -1,2 +1,6 @@
 
 print("This is a test")
+for num in range(0,9):
+   print("Counting ", num)
+
+
